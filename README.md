@@ -1,2 +1,0 @@
-# JJTech-Tower
-Ansible repo
